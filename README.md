@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Sayanjitdas
 - 👀 I’m interested in software development / application development
-- 🌱 I’m currently learning GO
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning react js,C,C++,advanced python,
+- 📫 send me mail on sayanjitgit@gmail.com
 
 <!---
 Sayanjitdas/Sayanjitdas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
