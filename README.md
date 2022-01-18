@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sayanjitdas
 - 👀 I’m interested in software development / application development
-- 🌱 I’m currently learning react js,C,C++,advanced python,
+- 🌱 I’m currently learning advanced python,design pattern,software architecture
 - 📫 send me mail on sayanjitgit@gmail.com
 
 <!---
